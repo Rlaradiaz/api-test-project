@@ -66,7 +66,7 @@ public class ApiTest {
         }
     }
 
-    //// Método para Realizar nueva Publicacion y mostrar Codigo.
+    //// Método para Realizar nueva Publicacion y
     private void realizarPublicacion(int userId) {
         
         RestAssured.baseURI = "https://jsonplaceholder.typicode.com";
